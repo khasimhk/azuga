@@ -1,0 +1,79 @@
+[{
+
+    "item": "Headache pills",
+
+    "itemCategory": "Medicine",
+
+    "quantity": 5,
+
+    "price": 50,
+    "tax":"5%"
+
+
+},
+
+{
+
+    "item": "Sandwich",
+
+    "itemCategory": "Food",
+
+    "quantity": 2,
+
+    "price": 200,
+    "tax":"5%"
+
+},
+
+{
+
+    "item": "Perfume",
+
+    "itemCategory": "Imported",
+
+    "quantity": 1,
+
+    "price": 4000,
+    "tax":"5%"
+
+},
+
+{
+
+    "item": "Black Swan",
+
+    "itemCategory": "Book",
+
+    "quantity": 1,
+
+    "price": 300,
+    "tax":"5%"
+
+},
+{
+
+    "item": "Classical Songs Collection",
+
+    "itemCategory": "Music",
+
+    "quantity": 1,
+
+    "price": 500,
+    "tax":"5%"
+
+},
+
+{
+
+    "item": "Pants",
+
+    "itemCategory": "Clothes",
+
+    "quantity": 2,
+
+    "price": 1200,
+    "tax":"5%"
+
+}
+
+]
